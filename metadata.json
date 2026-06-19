@@ -1,0 +1,6 @@
+{
+  "name": "Personal Fitness Goals Tracker",
+  "description": "An interactive full-stack app to set, log, and track personal fitness goals with client-side daily reminder alerts, custom motivational tips, and an AI Fitness Coach.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
